@@ -11,15 +11,11 @@ services:
 - description: Test
   heading: Reinforcement Learning
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: ''
+  heading: Deep Learning
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Academic Webpage
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+textline: PhD Student Mila
 hero_button:
   text: Learn more
   href: "/about"
